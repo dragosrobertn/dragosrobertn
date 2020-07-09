@@ -1,5 +1,6 @@
 # 👋
 You have somehow landed on my Github pprofile, so welcome!
+
 My name is Dragoș and in my day-to-day I do **software** and **mobile development**.
 
 Some of the **things I care about**: *user experience* and the value my work can bring to people, working in healthy, effective and *autonomous teams*, advocating for *positive social change* and *diversity & inclusion*.
