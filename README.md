@@ -1,5 +1,5 @@
 # 👋
-You have somehow landed on my Github pprofile, so welcome!
+You have somehow landed on my Github profile, so welcome!
 
 My name is Dragoș and in my day-to-day I do **software** and **mobile development**.
 
